@@ -15,4 +15,5 @@ I want to keep my learning public, stay consistent, and share notes about the ex
 
 ✨ Open-source and community-driven projects inspire me to keep learning.
 
-kkkkk
+1
+2
